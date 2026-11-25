@@ -46,9 +46,10 @@ No-GDS first brief guide:
 
 - https://mst-sg.com/mpw/start-mpw-rfq-without-gds/
 
-MPW RFQ intake:
+Plan a test chip:
 
-- https://store.mst-sg.com/services/mpw-tapeout-rfq
+- [2027 mature-node MPW planning windows](https://mstchip.com/mpw/guides/2027-mature-node-mpw-schedule)
+- [Request a non-confidential feasibility check](https://mstchip.com/mpw)
 
 ## NeuroBox D
 
@@ -63,7 +64,7 @@ Product page:
 ## Contact
 
 - Website: https://mst-sg.com/
-- Store / RFQ: https://store.mst-sg.com/
+- Store / RFQ: https://mstchip.com/
 - Email: sales@mst-sg.com
 - LinkedIn: https://www.linkedin.com/company/moore-solution/
 
